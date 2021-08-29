@@ -1,0 +1,29 @@
+"xterm"
+    Mod4 + Shift + Return
+
+"pamixer -i 5"
+    XF86AudioRaiseVolume
+
+"pamixer -d 5"
+    XF86AudioLowerVolume
+
+"pamixer -t"
+    XF86AudioMute
+
+"mpc toggle"
+    Mod4 + p
+
+"mpc next"
+    Mod4 + bracketright
+
+"mpc prev"
+    Mod4 + bracketleft
+
+"xbacklight -dec 15"
+    Mod4 + F5
+
+"xbacklight -inc 15"
+    Mod4 + F6
+
+"prompt 'Shutdown computer?' 'shutdown -h now'"
+    Mod4 + Shift + x
